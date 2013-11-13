@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8E2276E8-5EDE-499D-83AB-83DCD29F7A88</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VTFeeds</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE1BF42B-D7B4-4993-B693-B760954F7F60</key>
+		<string>https://github.com/vincentngo/VTFeeds.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VTFeeds/VTFeeds.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE1BF42B-D7B4-4993-B693-B760954F7F60</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vincentngo/VTFeeds.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE1BF42B-D7B4-4993-B693-B760954F7F60</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE1BF42B-D7B4-4993-B693-B760954F7F60</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VTFeeds</string>
+		</dict>
+	</array>
+</dict>
+</plist>
